@@ -1,2 +1,2 @@
 # API-with-python-and-Flask
-Rest API com SQLite
+Este projeto contém um CRUD realizado com SQLite, SQLAlchemy e endpoits de usuários com JWT
