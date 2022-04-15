@@ -1,2 +1,2 @@
 # API-with-python-and-Flask
-Este projeto contém um CRUD realizado com SQLite, SQLAlchemy e endpoits de usuários com JWT
+This project contains a CRUD made with SQLite, SQLAlchemy and endpoits of users with JWT
